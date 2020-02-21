@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmsApps.WxWidgets.Template"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmsApps.FileScout", "Projects\SmsApps.FileScout\SmsApps.FileScout.vcxproj", "{823C72AE-0ABC-4DF7-9AAE-AC31CDED1A20}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OlcSpriteEditor", "Projects\OlcSpriteEditor\OlcSpriteEditor.vcxproj", "{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -35,6 +37,14 @@ Global
 		{823C72AE-0ABC-4DF7-9AAE-AC31CDED1A20}.Release|x64.Build.0 = Release|x64
 		{823C72AE-0ABC-4DF7-9AAE-AC31CDED1A20}.Release|x86.ActiveCfg = Release|Win32
 		{823C72AE-0ABC-4DF7-9AAE-AC31CDED1A20}.Release|x86.Build.0 = Release|Win32
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}.Debug|x64.ActiveCfg = Debug|x64
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}.Debug|x64.Build.0 = Debug|x64
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}.Debug|x86.Build.0 = Debug|Win32
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}.Release|x64.ActiveCfg = Release|x64
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}.Release|x64.Build.0 = Release|x64
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}.Release|x86.ActiveCfg = Release|Win32
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +52,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3B2B9E3A-2B7E-4E6A-99E4-F14401FFF419} = {B0FC52C4-972E-452D-BA85-9ED57F124D61}
 		{823C72AE-0ABC-4DF7-9AAE-AC31CDED1A20} = {F7FC8C9B-E9AD-4AB9-A271-CDEEA7C2F6A9}
+		{C5A1C67B-73EC-4DA6-85FB-5A24155CB5E2} = {F7FC8C9B-E9AD-4AB9-A271-CDEEA7C2F6A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {54E85267-D623-445E-923F-B2F661E41FED}
